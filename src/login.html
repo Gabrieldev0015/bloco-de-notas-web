@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+         <link rel="stylesheet" href="style/style.css">
+
+</head>
+<body>
+      <!-- Nota: para executar funções JS nesta página, adicione o(s) script(s) ao final do body, por exemplo:
+        <script src="js/dados_function.js"></script>
+        Isso evita problemas com fetch ao abrir via file:// — rode um servidor local (python -m http.server).
+      -->
+    <header>
+    <div class="topo">
+      <h1>NotaFácil</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Início</a></li>
+          <li><a href="login.html">Entrar</a></li>
+          <li><a href="cadastro.html">Cadastrar</a></li>
+          <li><a href="paginainicial.html">Minhas Tarefas</a></li>
+
+        </ul>
+      </nav>
+    </div>
+  </header>
+ 
+  <main>
+    <section class="form-container">
+      <h2>Criar conta</h2>
+      <form id="form-cadastro">
+        <label>
+          Nome
+          <input type="text" name="nome" required>
+        </label>
+        <label>
+          E-mail
+          <input type="email" name="email" required>
+        </label>
+        <label>
+          Senha
+          <input type="password" name="senha" required minlength="6">
+        </label>
+        <button type="submit">Cadastrar</button>
+      </form>
+    </section>
+  </main>
+ 
+  <footer>
+    <p>&copy; 2026 NotaFácil — Projeto de aprendizado</p>
+  </footer>
+</body>
+</html>
