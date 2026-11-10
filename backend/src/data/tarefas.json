@@ -1,22 +1,5 @@
 [
   {
-    "id": 1,
-    "titulo": "Estudar HTML semântico",
-    "descricao": "Revisar as tags de estrutura da página.",
-    "status": "concluida",
-    "prioridade": "media",
-    "tags": [
-      "estudo",
-      "web"
-    ],
-    "prazo": "",
-    "horario": "",
-    "recorrencia": "semanal",
-    "lembrete": "nenhum",
-    "favorita": true,
-    "atualizadaEm": "2026-11-10T00:58:29.584Z"
-  },
-  {
     "id": 2,
     "titulo": "Configurar o banco de dados",
     "descricao": "Criar as tabelas de usuário e tarefa.",
@@ -69,7 +52,7 @@
     "id": 5,
     "titulo": "Estudar às 7 horas da manhã",
     "descricao": "Farmacologia",
-    "status": "pendente",
+    "status": "concluida",
     "prioridade": "baixa",
     "tags": [
       "estudo",
@@ -80,6 +63,20 @@
     "recorrencia": "diaria",
     "lembrete": "15_min",
     "favorita": false,
-    "atualizadaEm": "2026-11-10T00:58:29.586Z"
+    "atualizadaEm": "2026-11-10T10:48:32.493Z"
+  },
+  {
+    "id": 6,
+    "titulo": "projeto pessoal",
+    "descricao": "bloco de notas na web",
+    "status": "pendente",
+    "prioridade": "baixa",
+    "tags": [],
+    "prazo": "2027-06-15",
+    "horario": "12:00",
+    "recorrencia": "mensal",
+    "lembrete": "1_dia",
+    "favorita": false,
+    "atualizadaEm": "2026-11-10T10:47:53.708Z"
   }
 ]
