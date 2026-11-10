@@ -1,7 +1,0 @@
-{ "title": "Minhas Tarefas", "tarefas": 
-
-[ { "id": 1, "titulo": "Estudar HTML semântico", "descricao": "Revisar as tags de estrutura da página." }, 
-{ "id": 2, "titulo": "Configurar o banco de dados", "descricao": "Criar as tabelas de usuário e tarefa." },
-{ "id": 3, "titulo": "Desenvolver a interface do usuário", "descricao": "Criar os componentes de UI para a aplicação." } ,
-{"id":4,"titulo":"Testar a aplicação","descricao":"Realizar testes de usabilidade e desempenho."},
-{"id":5, "titulo": "estudar as 7 horas da manhã", "descricao": "farmacologia"}] }

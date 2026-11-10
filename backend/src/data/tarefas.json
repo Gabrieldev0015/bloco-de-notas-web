@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estudar HTML semântico",
+    "descricao": "Revisar as tags de estrutura da página.",
+    "status": "concluida",
+    "prioridade": "media",
+    "tags": [
+      "estudo",
+      "web"
+    ],
+    "prazo": "",
+    "horario": "",
+    "recorrencia": "semanal",
+    "lembrete": "nenhum",
+    "favorita": true,
+    "atualizadaEm": "2026-11-10T00:58:29.584Z"
+  },
+  {
+    "id": 2,
+    "titulo": "Configurar o banco de dados",
+    "descricao": "Criar as tabelas de usuário e tarefa.",
+    "status": "andamento",
+    "prioridade": "alta",
+    "tags": [
+      "desenvolvimento"
+    ],
+    "prazo": "2026-11-12",
+    "horario": "14:00",
+    "recorrencia": "nenhuma",
+    "lembrete": "1_hora",
+    "favorita": false,
+    "atualizadaEm": "2026-11-10T00:58:29.586Z"
+  },
+  {
+    "id": 3,
+    "titulo": "Desenvolver a interface do usuário",
+    "descricao": "Criar os componentes de UI para a aplicação.",
+    "status": "pendente",
+    "prioridade": "alta",
+    "tags": [
+      "design",
+      "frontend"
+    ],
+    "prazo": "2026-11-15",
+    "horario": "18:00",
+    "recorrencia": "nenhuma",
+    "lembrete": "1_dia",
+    "favorita": true,
+    "atualizadaEm": "2026-11-10T00:58:29.586Z"
+  },
+  {
+    "id": 4,
+    "titulo": "Testar a aplicação",
+    "descricao": "Realizar testes de usabilidade e desempenho.",
+    "status": "pendente",
+    "prioridade": "media",
+    "tags": [
+      "qualidade"
+    ],
+    "prazo": "",
+    "horario": "",
+    "recorrencia": "nenhuma",
+    "lembrete": "nenhum",
+    "favorita": false,
+    "atualizadaEm": "2026-11-10T00:58:29.586Z"
+  },
+  {
+    "id": 5,
+    "titulo": "Estudar às 7 horas da manhã",
+    "descricao": "Farmacologia",
+    "status": "pendente",
+    "prioridade": "baixa",
+    "tags": [
+      "estudo",
+      "farmacologia"
+    ],
+    "prazo": "2026-11-10",
+    "horario": "07:00",
+    "recorrencia": "diaria",
+    "lembrete": "15_min",
+    "favorita": false,
+    "atualizadaEm": "2026-11-10T00:58:29.586Z"
+  }
+]
